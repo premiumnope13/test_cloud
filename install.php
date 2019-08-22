@@ -2,7 +2,7 @@
 //Create Data base if not exists
 	$servername = "http://35.222.72.79";
 	$username = "root";
-	$password = "Gjwzjbsajkrf1234";
+	$password = "";
 
 	// Create connection
 	$conn = new mysqli($servername, $username, $password);
