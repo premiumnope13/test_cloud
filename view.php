@@ -33,7 +33,7 @@
     //Connect to database and create table
     $servername = "35.222.72.79";
     $username = "root";
-    $password = "";
+    $password = "Gjwzjbsajkrf1234";
     $dbname = "espdemo";
 
     // Create connection
