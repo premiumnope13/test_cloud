@@ -1,6 +1,6 @@
 <?php
 //Create Data base if not exists
-	$servername = "http://35.222.72.79";
+	$servername = "35.222.72.79";
 	$username = "root";
 	$password = "";
 
@@ -23,9 +23,9 @@
 
 	echo "<br>";
 //Connect to database and create table
-	$servername = "http://35.222.72.79";
-	$username = "root";
-	$password = "";
+	// $servername = "35.222.72.79";
+	// $username = "root";
+	// $password = "";
 	$dbname = "espdemo";
 
 	// Create connection
