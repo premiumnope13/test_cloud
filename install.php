@@ -1,7 +1,7 @@
 <?php
 //Create Data base if not exists
-	$servername = "35.222.72.79";
-	$username = "root";
+	$servername = "";
+	$username = "";
 	$password = "";
 
 	// Create connection
