@@ -1,10 +1,10 @@
 <?php
 //Creates new record as per request
     //Connect to database
-    $servername = "35.222.72.79";
-    $username = "root";
-    $password = "root";
-    $dbname = "espdemo";
+    $servername = "";
+    $username = "";
+    $password = "";
+    $dbname = "";
 
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
